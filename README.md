@@ -1,17 +1,14 @@
 <h1> Active Directory Lab </h1>
 
-<h2>Description</h2>
+<h2> Description: </h2>
 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools used: <h2>
 
-- <b>PowerShell</b> 
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+-  <b>PowerShell</b> 
+-  <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
@@ -20,6 +17,8 @@ Launch the utility: <br/>
 <img src=/>
 <br />
 <br />
+
+<h2> What security outcome was achieved: </h2>
 
 <!--
  ```diff
