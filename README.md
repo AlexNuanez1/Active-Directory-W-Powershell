@@ -2,13 +2,11 @@
 
 <h2> Description: </h2>
 
-<br />
 
+<h2>Tools used: </h2>
 
-<h2>Tools used: <h2>
-
--  <b>PowerShell</b> 
--  <b>Windows 10</b> (21H2)
+- PowerShell
+- Windows 10 (21H2)
 
 <h2>Program walk-through:</h2>
 
